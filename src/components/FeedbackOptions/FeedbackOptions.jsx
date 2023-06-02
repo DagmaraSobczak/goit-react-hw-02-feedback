@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
-import css from './FeedbackOptions.module.css';
 
 export default class FeedbackOptions extends Component {
   static propTypes = {
